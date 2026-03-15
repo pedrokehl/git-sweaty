@@ -7629,5 +7629,18 @@
     "start_date_local": "2026-03-12T17:24:56Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 8023.1,
+    "elevation_gain": 7.0,
+    "id": "17723374403",
+    "moving_time": 2757.0,
+    "name": "Rolling 400s after 2 beers",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-14T19:39:00Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
