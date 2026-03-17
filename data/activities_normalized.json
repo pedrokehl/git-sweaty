@@ -7655,5 +7655,18 @@
     "start_date_local": "2026-03-15T15:17:22Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17746541000",
+    "moving_time": 8356.0,
+    "name": "Escalada em rochas ao entardecer",
+    "raw_activity_type": "RockClimbing",
+    "raw_type": "RockClimbing",
+    "start_date_local": "2026-03-16T19:10:28Z",
+    "type": "RockClimbing",
+    "year": 2026
   }
 ]
