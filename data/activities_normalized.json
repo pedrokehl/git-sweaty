@@ -7668,5 +7668,18 @@
     "start_date_local": "2026-03-16T19:10:28Z",
     "type": "RockClimbing",
     "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 13046.4,
+    "elevation_gain": 20.0,
+    "id": "17758068225",
+    "moving_time": 4379.0,
+    "name": "13km long run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-17T18:49:33Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
