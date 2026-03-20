@@ -7681,5 +7681,18 @@
     "start_date_local": "2026-03-17T18:49:33Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-19",
+    "distance": 6402.6,
+    "elevation_gain": 9.0,
+    "id": "17781778125",
+    "moving_time": 2176.0,
+    "name": "Mile Repeats",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-19T18:00:55Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
