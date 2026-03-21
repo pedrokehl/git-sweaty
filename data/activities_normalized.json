@@ -7694,5 +7694,31 @@
     "start_date_local": "2026-03-19T18:00:55Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17793228039",
+    "moving_time": 5447.0,
+    "name": "Push",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-20T16:27:24Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-21",
+    "distance": 8051.0,
+    "elevation_gain": 20.0,
+    "id": "17804072542",
+    "moving_time": 2800.0,
+    "name": "Easy run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-21T14:56:51Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
