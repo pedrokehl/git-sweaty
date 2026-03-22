@@ -7720,5 +7720,18 @@
     "start_date_local": "2026-03-21T14:56:51Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 3054.8,
+    "elevation_gain": 15.0,
+    "id": "17816042236",
+    "moving_time": 2645.0,
+    "name": "Trilha a tarde",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-03-22T13:32:45Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
