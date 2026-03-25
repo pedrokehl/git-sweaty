@@ -7746,5 +7746,18 @@
     "start_date_local": "2026-03-22T17:18:09Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-24",
+    "distance": 7072.1,
+    "elevation_gain": 9.0,
+    "id": "17843269001",
+    "moving_time": 2508.0,
+    "name": "Pace Practice K\u2019s",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-24T18:03:08Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
