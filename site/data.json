@@ -5376,7 +5376,7 @@
     {
       "date": "2026-03-28",
       "hour": 10,
-      "name": "Prague Half-Marathon",
+      "name": "Prague Half Marathon",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/17887648904",
@@ -10585,7 +10585,7 @@
       }
     }
   },
-  "generated_at": "2026-03-28T15:25:47.894562+00:00",
+  "generated_at": "2026-03-29T15:26:08.907291+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7494916",
   "repo": "pedrokehl/git-sweaty",
