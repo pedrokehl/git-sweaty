@@ -7798,5 +7798,31 @@
     "start_date_local": "2026-04-01T18:00:09Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 4337.8,
+    "elevation_gain": 442.2,
+    "id": "17961619671",
+    "moving_time": 6591.0,
+    "name": "Drachenstein",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-04-03T11:03:47Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 6291.5,
+    "elevation_gain": 111.0,
+    "id": "17963848996",
+    "moving_time": 5247.0,
+    "name": "Caminhada vespertina",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-03T15:23:49Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
