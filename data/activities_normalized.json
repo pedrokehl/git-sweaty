@@ -7824,5 +7824,18 @@
     "start_date_local": "2026-04-03T15:23:49Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 42881.1,
+    "elevation_gain": 184.2,
+    "id": "17976250557",
+    "moving_time": 12728.0,
+    "name": "Esqui alpino matinal",
+    "raw_activity_type": "AlpineSki",
+    "raw_type": "AlpineSki",
+    "start_date_local": "2026-04-04T10:03:32Z",
+    "type": "AlpineSki",
+    "year": 2026
   }
 ]
