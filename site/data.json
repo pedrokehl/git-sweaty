@@ -5421,7 +5421,7 @@
     {
       "date": "2026-04-04",
       "hour": 10,
-      "name": "Esqui alpino matinal",
+      "name": "Private slopes!",
       "subtype": "AlpineSki",
       "type": "AlpineSki",
       "url": "https://www.strava.com/activities/17976250557",
@@ -10677,7 +10677,7 @@
       }
     }
   },
-  "generated_at": "2026-04-04T15:26:21.187171+00:00",
+  "generated_at": "2026-04-05T15:26:52.998006+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7494916",
   "repo": "pedrokehl/git-sweaty",
