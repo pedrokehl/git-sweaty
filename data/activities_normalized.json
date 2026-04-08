@@ -7850,5 +7850,18 @@
     "start_date_local": "2026-04-05T09:43:12Z",
     "type": "AlpineSki",
     "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18017580782",
+    "moving_time": 4242.0,
+    "name": "Forearms, Shoulders & Abs",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-07T19:53:28Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
