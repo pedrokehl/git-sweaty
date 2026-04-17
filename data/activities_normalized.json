@@ -7928,5 +7928,18 @@
     "start_date_local": "2026-04-15T19:14:48Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18134254195",
+    "moving_time": 4489.0,
+    "name": "Forearms, Shoulders & Abs",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-16T17:33:50Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
