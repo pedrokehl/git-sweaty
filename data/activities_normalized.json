@@ -8019,5 +8019,18 @@
     "start_date_local": "2026-04-24T17:14:05Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 80277.5,
+    "elevation_gain": 473.0,
+    "id": "18253604212",
+    "moving_time": 13299.0,
+    "name": "Beautiful day! Strong wind, but stronger will!",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-25T12:17:07Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
