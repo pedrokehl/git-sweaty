@@ -5579,6 +5579,60 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18321698265",
       "year": 2026
+    },
+    {
+      "date": "2026-05-01",
+      "hour": 19,
+      "name": "Trilha ao entardecer",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18350270685",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-02",
+      "hour": 10,
+      "name": "Hvadnik Ferrata",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18350270499",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-02",
+      "hour": 17,
+      "name": "View to Triglav North Face",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18350275402",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-02",
+      "hour": 14,
+      "name": "Waterfall Pe\u0159\u00ed\u010dnik and Lake Kreda",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18350275518",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-03",
+      "hour": 10,
+      "name": "Trilha matinal",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18357528337",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-03",
+      "hour": 13,
+      "name": "Trilha a tarde",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18360473708",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10182,6 +10236,36 @@
           "distance": 4337.8,
           "elevation_gain": 442.2,
           "moving_time": 6591.0
+        },
+        "2026-05-01": {
+          "activity_ids": [
+            "18350270685"
+          ],
+          "count": 1,
+          "distance": 2889.1,
+          "elevation_gain": 67.0,
+          "moving_time": 2943.0
+        },
+        "2026-05-02": {
+          "activity_ids": [
+            "18350270499",
+            "18350275402",
+            "18350275518"
+          ],
+          "count": 3,
+          "distance": 18393.6,
+          "elevation_gain": 570.7,
+          "moving_time": 17838.0
+        },
+        "2026-05-03": {
+          "activity_ids": [
+            "18357528337",
+            "18360473708"
+          ],
+          "count": 2,
+          "distance": 15276.0,
+          "elevation_gain": 426.0,
+          "moving_time": 14595.0
         }
       },
       "NordicSki": {
@@ -10983,7 +11067,7 @@
       }
     }
   },
-  "generated_at": "2026-05-02T15:40:17.060721+00:00",
+  "generated_at": "2026-05-03T15:40:54.449697+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7494916",
   "repo": "pedrokehl/git-sweaty",

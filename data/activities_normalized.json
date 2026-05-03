@@ -8058,5 +8058,83 @@
     "start_date_local": "2026-04-30T18:35:04Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 2889.1,
+    "elevation_gain": 67.0,
+    "id": "18350270685",
+    "moving_time": 2943.0,
+    "name": "Trilha ao entardecer",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-01T19:15:32Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 3378.0,
+    "elevation_gain": 191.0,
+    "id": "18350270499",
+    "moving_time": 4747.0,
+    "name": "Hvadnik Ferrata",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-02T10:11:19Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 3814.5,
+    "elevation_gain": 43.0,
+    "id": "18350275402",
+    "moving_time": 3194.0,
+    "name": "View to Triglav North Face",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-02T17:54:33Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 11201.1,
+    "elevation_gain": 336.7,
+    "id": "18350275518",
+    "moving_time": 9897.0,
+    "name": "Waterfall Pe\u0159\u00ed\u010dnik and Lake Kreda",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-02T14:23:24Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 8438.6,
+    "elevation_gain": 258.0,
+    "id": "18357528337",
+    "moving_time": 7548.0,
+    "name": "Trilha matinal",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-03T10:06:05Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 6837.4,
+    "elevation_gain": 168.0,
+    "id": "18360473708",
+    "moving_time": 7047.0,
+    "name": "Trilha a tarde",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-03T13:34:21Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
