@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T15:40:54.437035+00:00",
+  "generated_at": "2026-05-04T16:27:36.283379+00:00",
   "years": {
     "2015": {
       "Ride": {
@@ -4631,6 +4631,16 @@
           "distance": 15276.0,
           "elevation_gain": 426.0,
           "moving_time": 14595.0
+        },
+        "2026-05-04": {
+          "activity_ids": [
+            "18370490194",
+            "18371285953"
+          ],
+          "count": 2,
+          "distance": 3336.3999999999996,
+          "elevation_gain": 142.0,
+          "moving_time": 3423.0
         }
       },
       "NordicSki": {
@@ -5008,6 +5018,15 @@
           "distance": 21364.6,
           "elevation_gain": 75.0,
           "moving_time": 6539.0
+        },
+        "2026-05-03": {
+          "activity_ids": [
+            "18364188802"
+          ],
+          "count": 1,
+          "distance": 11207.4,
+          "elevation_gain": 80.0,
+          "moving_time": 5344.0
         }
       },
       "Walk": {
@@ -5019,6 +5038,15 @@
           "distance": 6291.5,
           "elevation_gain": 111.0,
           "moving_time": 5247.0
+        },
+        "2026-05-04": {
+          "activity_ids": [
+            "18369196398"
+          ],
+          "count": 1,
+          "distance": 594.1,
+          "elevation_gain": 6.0,
+          "moving_time": 548.0
         }
       },
       "WeightTraining": {

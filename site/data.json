@@ -5619,7 +5619,7 @@
     {
       "date": "2026-05-03",
       "hour": 10,
-      "name": "Trilha matinal",
+      "name": "Bled and Mala Osojnica",
       "subtype": "Hike",
       "type": "Hike",
       "url": "https://www.strava.com/activities/18357528337",
@@ -5628,10 +5628,46 @@
     {
       "date": "2026-05-03",
       "hour": 13,
-      "name": "Trilha a tarde",
+      "name": "Vintgar Gorge",
       "subtype": "Hike",
       "type": "Hike",
       "url": "https://www.strava.com/activities/18360473708",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-03",
+      "hour": 18,
+      "name": "Trail Run / Walk around the lake + dinner",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18364188802",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-04",
+      "hour": 10,
+      "name": "Zelenci Lake",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18369196398",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-04",
+      "hour": 12,
+      "name": "Izvir So\u010de",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18370490194",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-04",
+      "hour": 13,
+      "name": "Trilha a tarde",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18371285953",
       "year": 2026
     }
   ],
@@ -10266,6 +10302,16 @@
           "distance": 15276.0,
           "elevation_gain": 426.0,
           "moving_time": 14595.0
+        },
+        "2026-05-04": {
+          "activity_ids": [
+            "18370490194",
+            "18371285953"
+          ],
+          "count": 2,
+          "distance": 3336.3999999999996,
+          "elevation_gain": 142.0,
+          "moving_time": 3423.0
         }
       },
       "NordicSki": {
@@ -10643,6 +10689,15 @@
           "distance": 21364.6,
           "elevation_gain": 75.0,
           "moving_time": 6539.0
+        },
+        "2026-05-03": {
+          "activity_ids": [
+            "18364188802"
+          ],
+          "count": 1,
+          "distance": 11207.4,
+          "elevation_gain": 80.0,
+          "moving_time": 5344.0
         }
       },
       "Walk": {
@@ -10654,6 +10709,15 @@
           "distance": 6291.5,
           "elevation_gain": 111.0,
           "moving_time": 5247.0
+        },
+        "2026-05-04": {
+          "activity_ids": [
+            "18369196398"
+          ],
+          "count": 1,
+          "distance": 594.1,
+          "elevation_gain": 6.0,
+          "moving_time": 548.0
         }
       },
       "WeightTraining": {
@@ -11067,7 +11131,7 @@
       }
     }
   },
-  "generated_at": "2026-05-03T15:40:54.449697+00:00",
+  "generated_at": "2026-05-04T16:27:36.295399+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7494916",
   "repo": "pedrokehl/git-sweaty",
