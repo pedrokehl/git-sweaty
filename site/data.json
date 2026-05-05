@@ -5669,6 +5669,24 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/18371285953",
       "year": 2026
+    },
+    {
+      "date": "2026-05-04",
+      "hour": 15,
+      "name": "Trilha a tarde",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18374007791",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-05",
+      "hour": 9,
+      "name": "Trilha matinal",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18383599481",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10306,12 +10324,22 @@
         "2026-05-04": {
           "activity_ids": [
             "18370490194",
-            "18371285953"
+            "18371285953",
+            "18374007791"
           ],
-          "count": 2,
-          "distance": 3336.3999999999996,
-          "elevation_gain": 142.0,
-          "moving_time": 3423.0
+          "count": 3,
+          "distance": 12268.3,
+          "elevation_gain": 230.0,
+          "moving_time": 11186.0
+        },
+        "2026-05-05": {
+          "activity_ids": [
+            "18383599481"
+          ],
+          "count": 1,
+          "distance": 4928.0,
+          "elevation_gain": 401.0,
+          "moving_time": 7674.0
         }
       },
       "NordicSki": {
@@ -11131,7 +11159,7 @@
       }
     }
   },
-  "generated_at": "2026-05-04T16:27:36.295399+00:00",
+  "generated_at": "2026-05-05T16:20:55.840260+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7494916",
   "repo": "pedrokehl/git-sweaty",

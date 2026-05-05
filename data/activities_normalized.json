@@ -8188,5 +8188,31 @@
     "start_date_local": "2026-05-04T13:58:14Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-05-04",
+    "distance": 8931.9,
+    "elevation_gain": 88.0,
+    "id": "18374007791",
+    "moving_time": 7763.0,
+    "name": "Trilha a tarde",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-04T15:28:04Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 4928.0,
+    "elevation_gain": 401.0,
+    "id": "18383599481",
+    "moving_time": 7674.0,
+    "name": "Trilha matinal",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-05T09:49:02Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
