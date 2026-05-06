@@ -8208,11 +8208,37 @@
     "elevation_gain": 401.0,
     "id": "18383599481",
     "moving_time": 7674.0,
-    "name": "Trilha matinal",
+    "name": "Canyoning Fratarica",
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2026-05-05T09:49:02Z",
     "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 2659.5,
+    "elevation_gain": 147.0,
+    "id": "18387435177",
+    "moving_time": 2728.0,
+    "name": "Trilha a tarde",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-05T17:25:04Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 14681.5,
+    "elevation_gain": 247.0,
+    "id": "18399993204",
+    "moving_time": 12143.0,
+    "name": "Walk around Slovenian Coast",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-06T11:02:20Z",
+    "type": "Walk",
     "year": 2026
   }
 ]
