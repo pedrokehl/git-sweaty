@@ -8240,5 +8240,57 @@
     "start_date_local": "2026-05-06T11:02:20Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 4469.3,
+    "elevation_gain": 248.0,
+    "id": "18427507265",
+    "moving_time": 4520.0,
+    "name": "Sko\u010djan caves",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-07T10:03:56Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 4169.8,
+    "elevation_gain": 437.0,
+    "id": "18427514545",
+    "moving_time": 5830.0,
+    "name": "Ferratas - Furlanova pot & Otmarjeva Pot",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-07T17:22:20Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 9313.6,
+    "elevation_gain": 228.4,
+    "id": "18427514403",
+    "moving_time": 8881.0,
+    "name": "Ljubljana walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-08T13:54:00Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 10417.2,
+    "elevation_gain": 579.0,
+    "id": "18439675824",
+    "moving_time": 9419.0,
+    "name": "Trilha na hora do almo\u00e7o",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-09T11:02:11Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
