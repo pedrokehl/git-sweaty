@@ -5637,7 +5637,7 @@
     {
       "date": "2026-05-03",
       "hour": 18,
-      "name": "Trail Run / Walk around the lake + dinner",
+      "name": "Trail Run / Walk around the lake + dinner #dpnkzpet",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/18364188802",
@@ -5655,7 +5655,7 @@
     {
       "date": "2026-05-04",
       "hour": 12,
-      "name": "Izvir So\u010de",
+      "name": "Izvir So\u010de #dpnktam",
       "subtype": "Hike",
       "type": "Hike",
       "url": "https://www.strava.com/activities/18370490194",
@@ -5673,7 +5673,7 @@
     {
       "date": "2026-05-04",
       "hour": 15,
-      "name": "Trilha a tarde",
+      "name": "Trilha a tarde #dpnkzpet",
       "subtype": "Hike",
       "type": "Hike",
       "url": "https://www.strava.com/activities/18374007791",
@@ -5682,7 +5682,7 @@
     {
       "date": "2026-05-05",
       "hour": 9,
-      "name": "Canyoning Fratarica",
+      "name": "Canyoning Fratarica #dpnktam",
       "subtype": "Hike",
       "type": "Hike",
       "url": "https://www.strava.com/activities/18383599481",
@@ -5691,7 +5691,7 @@
     {
       "date": "2026-05-05",
       "hour": 17,
-      "name": "Trilha a tarde",
+      "name": "Trilha a tarde #dpnkzpet",
       "subtype": "Hike",
       "type": "Hike",
       "url": "https://www.strava.com/activities/18387435177",
@@ -5700,7 +5700,7 @@
     {
       "date": "2026-05-06",
       "hour": 11,
-      "name": "Walk around Slovenian Coast",
+      "name": "Walk around Slovenian Coast #dpnktam",
       "subtype": "Walk",
       "type": "Walk",
       "url": "https://www.strava.com/activities/18399993204",
@@ -5709,7 +5709,7 @@
     {
       "date": "2026-05-07",
       "hour": 10,
-      "name": "Sko\u010djan caves",
+      "name": "Sko\u010djan caves #dpnktam",
       "subtype": "Hike",
       "type": "Hike",
       "url": "https://www.strava.com/activities/18427507265",
@@ -5718,7 +5718,7 @@
     {
       "date": "2026-05-07",
       "hour": 17,
-      "name": "Ferratas - Furlanova pot & Otmarjeva Pot",
+      "name": "Ferratas - Furlanova pot & Otmarjeva Pot #dpnkzpet",
       "subtype": "Hike",
       "type": "Hike",
       "url": "https://www.strava.com/activities/18427514545",
@@ -5727,7 +5727,7 @@
     {
       "date": "2026-05-08",
       "hour": 13,
-      "name": "Ljubljana walk",
+      "name": "Ljubljana walk #dpnktam",
       "subtype": "Walk",
       "type": "Walk",
       "url": "https://www.strava.com/activities/18427514403",
@@ -5736,10 +5736,19 @@
     {
       "date": "2026-05-09",
       "hour": 11,
-      "name": "Trilha na hora do almo\u00e7o",
+      "name": "Velika Planina #dpnktam",
       "subtype": "Hike",
       "type": "Hike",
       "url": "https://www.strava.com/activities/18439675824",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-10",
+      "hour": 16,
+      "name": "Pull",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18454195776",
       "year": 2026
     }
   ],
@@ -11227,6 +11236,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2548.0
+        },
+        "2026-05-10": {
+          "activity_ids": [
+            "18454195776"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3706.0
         }
       },
       "Yoga": {
@@ -11251,7 +11269,7 @@
       }
     }
   },
-  "generated_at": "2026-05-09T15:43:57.051938+00:00",
+  "generated_at": "2026-05-10T15:45:30.313596+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7494916",
   "repo": "pedrokehl/git-sweaty",
