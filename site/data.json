@@ -5754,7 +5754,7 @@
     {
       "date": "2026-05-11",
       "hour": 10,
-      "name": "Pedalada matinal",
+      "name": "Pedalada matinal #dpnktam",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/18460795448",
@@ -11287,7 +11287,7 @@
       }
     }
   },
-  "generated_at": "2026-05-11T17:21:45.427755+00:00",
+  "generated_at": "2026-05-12T17:04:40.649606+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7494916",
   "repo": "pedrokehl/git-sweaty",
