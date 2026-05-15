@@ -8331,5 +8331,31 @@
     "start_date_local": "2026-05-12T19:05:50Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18507489722",
+    "moving_time": 3645.0,
+    "name": "Forearms, Shoulders & Abs",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-14T19:01:25Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 6656.9,
+    "elevation_gain": 14.0,
+    "id": "18515559151",
+    "moving_time": 1313.0,
+    "name": "Pedalada na hora do almo\u00e7o",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-15T12:47:44Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

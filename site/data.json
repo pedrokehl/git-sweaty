@@ -5768,6 +5768,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18480978037",
       "year": 2026
+    },
+    {
+      "date": "2026-05-14",
+      "hour": 19,
+      "name": "Forearms, Shoulders & Abs",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18507489722",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-15",
+      "hour": 12,
+      "name": "Pedalada na hora do almo\u00e7o",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18515559151",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10499,6 +10517,15 @@
           "distance": 1875.8,
           "elevation_gain": 6.0,
           "moving_time": 458.0
+        },
+        "2026-05-15": {
+          "activity_ids": [
+            "18515559151"
+          ],
+          "count": 1,
+          "distance": 6656.9,
+          "elevation_gain": 14.0,
+          "moving_time": 1313.0
         }
       },
       "RockClimbing": {
@@ -11281,6 +11308,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4484.0
+        },
+        "2026-05-14": {
+          "activity_ids": [
+            "18507489722"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3645.0
         }
       },
       "Yoga": {
@@ -11305,7 +11341,7 @@
       }
     }
   },
-  "generated_at": "2026-05-14T16:57:29.399507+00:00",
+  "generated_at": "2026-05-15T16:48:23.207925+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7494916",
   "repo": "pedrokehl/git-sweaty",
