@@ -8357,5 +8357,31 @@
     "start_date_local": "2026-05-15T12:47:44Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 6763.5,
+    "elevation_gain": 109.0,
+    "id": "18520377627",
+    "moving_time": 5770.0,
+    "name": "Trilha a tarde",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-15T17:24:02Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 10220.4,
+    "elevation_gain": 221.0,
+    "id": "18530938899",
+    "moving_time": 8418.0,
+    "name": "Trilha na hora do almo\u00e7o",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-16T12:39:50Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
