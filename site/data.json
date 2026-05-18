@@ -5781,7 +5781,7 @@
     {
       "date": "2026-05-15",
       "hour": 12,
-      "name": "Pedalada na hora do almo\u00e7o",
+      "name": "#dpnktam",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/18515559151",
@@ -5790,7 +5790,7 @@
     {
       "date": "2026-05-15",
       "hour": 17,
-      "name": "Trilha a tarde",
+      "name": "Exploring Harrachov #1 #dpnkzpet",
       "subtype": "Hike",
       "type": "Hike",
       "url": "https://www.strava.com/activities/18520377627",
@@ -5799,7 +5799,7 @@
     {
       "date": "2026-05-16",
       "hour": 12,
-      "name": "Trilha na hora do almo\u00e7o",
+      "name": "Exploring Harrachov #2 #dpnkzpet",
       "subtype": "Hike",
       "type": "Hike",
       "url": "https://www.strava.com/activities/18530938899",
@@ -5808,10 +5808,28 @@
     {
       "date": "2026-05-17",
       "hour": 9,
-      "name": "Trilha matinal",
+      "name": "Harrachov to Elbe Spring #dpnktam",
       "subtype": "Hike",
       "type": "Hike",
       "url": "https://www.strava.com/activities/18543127220",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-18",
+      "hour": 10,
+      "name": "Pedalada matinal",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18551751911",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-18",
+      "hour": 17,
+      "name": "1. Upper A (The \"Heavy\" Day)",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18557115920",
       "year": 2026
     }
   ],
@@ -10577,9 +10595,18 @@
             "18515559151"
           ],
           "count": 1,
-          "distance": 6656.9,
-          "elevation_gain": 14.0,
-          "moving_time": 1313.0
+          "distance": 1708.2,
+          "elevation_gain": 7.0,
+          "moving_time": 295.0
+        },
+        "2026-05-18": {
+          "activity_ids": [
+            "18551751911"
+          ],
+          "count": 1,
+          "distance": 1909.2,
+          "elevation_gain": 4.0,
+          "moving_time": 484.0
         }
       },
       "RockClimbing": {
@@ -11371,6 +11398,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3645.0
+        },
+        "2026-05-18": {
+          "activity_ids": [
+            "18557115920"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4437.0
         }
       },
       "Yoga": {
@@ -11395,7 +11431,7 @@
       }
     }
   },
-  "generated_at": "2026-05-17T15:53:54.602264+00:00",
+  "generated_at": "2026-05-18T17:27:48.157087+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7494916",
   "repo": "pedrokehl/git-sweaty",
