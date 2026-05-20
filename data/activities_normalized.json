@@ -8422,5 +8422,31 @@
     "start_date_local": "2026-05-18T17:42:28Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 1452.8,
+    "elevation_gain": 1.0,
+    "id": "18573009559",
+    "moving_time": 344.0,
+    "name": "Pedalada noturna",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-19T21:30:22Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 3432.2,
+    "elevation_gain": 14.0,
+    "id": "18583720158",
+    "moving_time": 2235.0,
+    "name": "Pedalada da tarde",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-20T17:31:45Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

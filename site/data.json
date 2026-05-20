@@ -5831,6 +5831,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18557115920",
       "year": 2026
+    },
+    {
+      "date": "2026-05-19",
+      "hour": 21,
+      "name": "Pedalada noturna",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18573009559",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-20",
+      "hour": 17,
+      "name": "Pedalada da tarde",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18583720158",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10607,6 +10625,24 @@
           "distance": 1909.2,
           "elevation_gain": 4.0,
           "moving_time": 484.0
+        },
+        "2026-05-19": {
+          "activity_ids": [
+            "18573009559"
+          ],
+          "count": 1,
+          "distance": 1452.8,
+          "elevation_gain": 1.0,
+          "moving_time": 344.0
+        },
+        "2026-05-20": {
+          "activity_ids": [
+            "18583720158"
+          ],
+          "count": 1,
+          "distance": 3432.2,
+          "elevation_gain": 14.0,
+          "moving_time": 2235.0
         }
       },
       "RockClimbing": {
@@ -11431,7 +11467,7 @@
       }
     }
   },
-  "generated_at": "2026-05-19T17:34:57.072678+00:00",
+  "generated_at": "2026-05-20T17:50:33.028281+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7494916",
   "repo": "pedrokehl/git-sweaty",
