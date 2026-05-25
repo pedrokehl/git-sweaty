@@ -8474,5 +8474,31 @@
     "start_date_local": "2026-05-22T15:33:28Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 1395.8,
+    "elevation_gain": 4.0,
+    "id": "18638102094",
+    "moving_time": 972.0,
+    "name": "Caminhada ao entardecer",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-24T18:39:45Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18650313935",
+    "moving_time": 5628.0,
+    "name": "3. Upper B (Hypertrophy)",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-25T17:08:49Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]

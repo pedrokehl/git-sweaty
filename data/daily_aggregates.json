@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T15:57:20.844156+00:00",
+  "generated_at": "2026-05-25T17:03:08.866518+00:00",
   "years": {
     "2015": {
       "Ride": {
@@ -5176,6 +5176,15 @@
           "distance": 1380.4,
           "elevation_gain": 15.0,
           "moving_time": 847.0
+        },
+        "2026-05-24": {
+          "activity_ids": [
+            "18638102094"
+          ],
+          "count": 1,
+          "distance": 1395.8,
+          "elevation_gain": 4.0,
+          "moving_time": 972.0
         }
       },
       "WeightTraining": {
@@ -5610,6 +5619,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4080.0
+        },
+        "2026-05-25": {
+          "activity_ids": [
+            "18650313935"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5628.0
         }
       },
       "Yoga": {
