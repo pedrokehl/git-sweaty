@@ -8500,5 +8500,18 @@
     "start_date_local": "2026-05-25T17:08:49Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 1766.5,
+    "elevation_gain": 5.0,
+    "id": "18657923734",
+    "moving_time": 402.0,
+    "name": "Pedalada matinal",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-26T10:01:57Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
