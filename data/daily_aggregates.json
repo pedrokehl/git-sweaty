@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T17:53:45.129777+00:00",
+  "generated_at": "2026-05-27T17:54:32.447644+00:00",
   "years": {
     "2015": {
       "Ride": {
@@ -4801,6 +4801,16 @@
           "distance": 1766.5,
           "elevation_gain": 5.0,
           "moving_time": 402.0
+        },
+        "2026-05-27": {
+          "activity_ids": [
+            "18671827373",
+            "18676395128"
+          ],
+          "count": 2,
+          "distance": 4578.6,
+          "elevation_gain": 11.0,
+          "moving_time": 1003.0
         }
       },
       "RockClimbing": {
@@ -5637,6 +5647,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5628.0
+        },
+        "2026-05-27": {
+          "activity_ids": [
+            "18677082742"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3134.0
         }
       },
       "Yoga": {
