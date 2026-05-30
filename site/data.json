@@ -5939,6 +5939,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18704457402",
       "year": 2026
+    },
+    {
+      "date": "2026-05-30",
+      "hour": 11,
+      "name": "Karl\u0161tejn castle and around",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18717117731",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10770,6 +10779,15 @@
           "distance": 3066.3,
           "elevation_gain": 97.0,
           "moving_time": 1214.0
+        },
+        "2026-05-30": {
+          "activity_ids": [
+            "18717117731"
+          ],
+          "count": 1,
+          "distance": 80624.1,
+          "elevation_gain": 799.0,
+          "moving_time": 15296.0
         }
       },
       "RockClimbing": {
@@ -11639,7 +11657,7 @@
       }
     }
   },
-  "generated_at": "2026-05-29T18:08:54.442021+00:00",
+  "generated_at": "2026-05-30T16:00:33.338865+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7494916",
   "repo": "pedrokehl/git-sweaty",

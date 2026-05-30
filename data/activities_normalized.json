@@ -8578,5 +8578,18 @@
     "start_date_local": "2026-05-29T17:49:24Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 80624.1,
+    "elevation_gain": 799.0,
+    "id": "18717117731",
+    "moving_time": 15296.0,
+    "name": "Karl\u0161tejn castle and around",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-30T11:47:19Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
