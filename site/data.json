@@ -5871,7 +5871,7 @@
     {
       "date": "2026-05-24",
       "hour": 18,
-      "name": "Caminhada ao entardecer",
+      "name": "Caminhada ao entardecer #dpnkzpet",
       "subtype": "Walk",
       "type": "Walk",
       "url": "https://www.strava.com/activities/18638102094",
@@ -5889,7 +5889,7 @@
     {
       "date": "2026-05-26",
       "hour": 10,
-      "name": "Pedalada matinal",
+      "name": "Pedalada matinal #dpnktam",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/18657923734",
@@ -5898,7 +5898,7 @@
     {
       "date": "2026-05-27",
       "hour": 9,
-      "name": "Pedalada matinal",
+      "name": "Pedalada matinal #dpnktam",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/18671827373",
@@ -5907,7 +5907,7 @@
     {
       "date": "2026-05-27",
       "hour": 17,
-      "name": "Afternoon Ride",
+      "name": "Afternoon Ride #dpnkzpet",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/18676395128",
@@ -5925,7 +5925,7 @@
     {
       "date": "2026-05-28",
       "hour": 12,
-      "name": "Lunch Ride",
+      "name": "Lunch Ride #dpnktam",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/18687188391",
@@ -5934,7 +5934,7 @@
     {
       "date": "2026-05-29",
       "hour": 17,
-      "name": "Afternoon Ride",
+      "name": "Afternoon Ride #dpnktam",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/18704457402",
@@ -5943,7 +5943,7 @@
     {
       "date": "2026-05-30",
       "hour": 11,
-      "name": "Karl\u0161tejn castle and around",
+      "name": "Karl\u0161tejn castle and around #dpnktam",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/18717117731",
@@ -11657,7 +11657,7 @@
       }
     }
   },
-  "generated_at": "2026-05-30T16:00:33.338865+00:00",
+  "generated_at": "2026-05-31T16:01:21.450173+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7494916",
   "repo": "pedrokehl/git-sweaty",
