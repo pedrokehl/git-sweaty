@@ -8630,5 +8630,18 @@
     "start_date_local": "2026-06-04T18:07:48Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18798469617",
+    "moving_time": 4359.0,
+    "name": "3. Upper B (Hypertrophy)",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-05T16:40:53Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
