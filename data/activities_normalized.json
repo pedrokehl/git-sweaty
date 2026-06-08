@@ -8656,5 +8656,31 @@
     "start_date_local": "2026-06-06T15:22:37Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 68334.9,
+    "elevation_gain": 454.0,
+    "id": "18827855897",
+    "moving_time": 10659.0,
+    "name": "Afternoon ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-07T15:10:08Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18838524618",
+    "moving_time": 3321.0,
+    "name": "4. Lower B",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-08T17:17:57Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
