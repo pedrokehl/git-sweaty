@@ -8747,5 +8747,31 @@
     "start_date_local": "2026-06-20T15:31:17Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 28138.4,
+    "elevation_gain": 92.0,
+    "id": "19012993964",
+    "moving_time": 3639.0,
+    "name": "Using the clouds for a 1h ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-21T17:50:01Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-22",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19024676611",
+    "moving_time": 2641.0,
+    "name": "2. Lower - The Chassis & Core",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-22T18:35:29Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
