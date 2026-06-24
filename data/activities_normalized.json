@@ -8773,5 +8773,31 @@
     "start_date_local": "2026-06-22T18:35:29Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 3671.6,
+    "elevation_gain": 12.0,
+    "id": "19039998817",
+    "moving_time": 1359.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-23T20:37:08Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19049832318",
+    "moving_time": 4318.0,
+    "name": "1. Upper - Engine Room",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-24T15:09:32Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
