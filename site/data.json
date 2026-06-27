@@ -6101,6 +6101,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/19075402295",
       "year": 2026
+    },
+    {
+      "date": "2026-06-27",
+      "hour": 11,
+      "name": "Escaping to the woods",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19084944687",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10810,6 +10819,15 @@
           "distance": 4726.2,
           "elevation_gain": 141.0,
           "moving_time": 3977.0
+        },
+        "2026-06-27": {
+          "activity_ids": [
+            "19084944687"
+          ],
+          "count": 1,
+          "distance": 7192.4,
+          "elevation_gain": 169.6,
+          "moving_time": 5786.0
         }
       },
       "NordicSki": {
@@ -11963,7 +11981,7 @@
       }
     }
   },
-  "generated_at": "2026-06-26T16:56:56.799248+00:00",
+  "generated_at": "2026-06-27T16:00:20.222319+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7494916",
   "repo": "pedrokehl/git-sweaty",
