@@ -5583,7 +5583,7 @@
     {
       "date": "2026-05-01",
       "hour": 19,
-      "name": "Trilha ao entardecer",
+      "name": "Trilha ao entardecer #dpnktam",
       "subtype": "Hike",
       "type": "Hike",
       "url": "https://www.strava.com/activities/18350270685",
@@ -5601,7 +5601,7 @@
     {
       "date": "2026-05-02",
       "hour": 17,
-      "name": "View to Triglav North Face",
+      "name": "View to Triglav North Face #dpnkzpet",
       "subtype": "Hike",
       "type": "Hike",
       "url": "https://www.strava.com/activities/18350275402",
@@ -5610,7 +5610,7 @@
     {
       "date": "2026-05-02",
       "hour": 14,
-      "name": "Waterfall Pe\u0159\u00ed\u010dnik and Lake Kreda",
+      "name": "Waterfall Pe\u0159\u00ed\u010dnik and Lake Kreda #dpnktam",
       "subtype": "Hike",
       "type": "Hike",
       "url": "https://www.strava.com/activities/18350275518",
@@ -5619,7 +5619,7 @@
     {
       "date": "2026-05-03",
       "hour": 10,
-      "name": "Bled and Mala Osojnica",
+      "name": "Bled and Mala Osojnica #dpnktam",
       "subtype": "Hike",
       "type": "Hike",
       "url": "https://www.strava.com/activities/18357528337",
@@ -5862,7 +5862,7 @@
     {
       "date": "2026-05-22",
       "hour": 15,
-      "name": "Caminhada vespertina",
+      "name": "Caminhada vespertina #dpnkzpet",
       "subtype": "Walk",
       "type": "Walk",
       "url": "https://www.strava.com/activities/18608588418",
@@ -6118,6 +6118,186 @@
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/19089394512",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-01",
+      "hour": 19,
+      "name": "1. Upper - Engine Room",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19141078809",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-02",
+      "hour": 17,
+      "name": "Quick stop at \u00dan\u011btick\u00fd pivovar",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19153730167",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-06",
+      "hour": 16,
+      "name": "3. Upper - The Sculptor",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19202426732",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-08",
+      "hour": 17,
+      "name": "1. Upper - Engine Room",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19230629400",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-09",
+      "hour": 18,
+      "name": "Evening Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19245968805",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-12",
+      "hour": 0,
+      "name": "25min in tram or a 7min ride?",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19274575633",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-12",
+      "hour": 13,
+      "name": "Training for after-party Rekola rides",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19282432770",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-16",
+      "hour": 17,
+      "name": "3. Upper - The Sculptor",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19338896923",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-18",
+      "hour": 14,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19362282932",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-18",
+      "hour": 9,
+      "name": "Quick stop in Austria for coffee",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19362283108",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-20",
+      "hour": 17,
+      "name": "1. Upper - Engine Room",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19390612245",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-21",
+      "hour": 20,
+      "name": "3. Upper - The Sculptor",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19407916572",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-23",
+      "hour": 18,
+      "name": "So much wind, the river stopped \ud83c\udf43",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19435016702",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-24",
+      "hour": 17,
+      "name": "7km Long Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19447461322",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-25",
+      "hour": 17,
+      "name": "1. Upper - Engine Room",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19461904543",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-26",
+      "hour": 12,
+      "name": "Chill ride \ud83d\udeb5\ud83c\udffb",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19472808731",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-27",
+      "hour": 18,
+      "name": "3. Upper - The Sculptor",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19488654616",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-28",
+      "hour": 19,
+      "name": "1km Repeats",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19503567235",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-29",
+      "hour": 19,
+      "name": "1. Upper - Engine Room",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19519149357",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-30",
+      "hour": 19,
+      "name": "Speed training \ud83e\udd75",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19532713473",
       "year": 2026
     },
     {
@@ -11059,6 +11239,62 @@
           "elevation_gain": 85.8,
           "moving_time": 3315.0
         },
+        "2026-07-02": {
+          "activity_ids": [
+            "19153730167"
+          ],
+          "count": 1,
+          "distance": 62953.6,
+          "elevation_gain": 616.0,
+          "moving_time": 9281.0
+        },
+        "2026-07-12": {
+          "activity_ids": [
+            "19274575633",
+            "19282432770"
+          ],
+          "count": 2,
+          "distance": 54392.4,
+          "elevation_gain": 396.8,
+          "moving_time": 8142.0
+        },
+        "2026-07-18": {
+          "activity_ids": [
+            "19362282932",
+            "19362283108"
+          ],
+          "count": 2,
+          "distance": 70594.40000000001,
+          "elevation_gain": 838.0,
+          "moving_time": 11087.0
+        },
+        "2026-07-23": {
+          "activity_ids": [
+            "19435016702"
+          ],
+          "count": 1,
+          "distance": 28833.6,
+          "elevation_gain": 115.0,
+          "moving_time": 3430.0
+        },
+        "2026-07-26": {
+          "activity_ids": [
+            "19472808731"
+          ],
+          "count": 1,
+          "distance": 50013.4,
+          "elevation_gain": 380.0,
+          "moving_time": 7621.0
+        },
+        "2026-07-30": {
+          "activity_ids": [
+            "19532713473"
+          ],
+          "count": 1,
+          "distance": 28509.0,
+          "elevation_gain": 108.6,
+          "moving_time": 3233.0
+        },
         "2026-08-06": {
           "activity_ids": [
             "19631695489"
@@ -11423,6 +11659,24 @@
           "elevation_gain": 12.0,
           "moving_time": 1359.0
         },
+        "2026-07-24": {
+          "activity_ids": [
+            "19447461322"
+          ],
+          "count": 1,
+          "distance": 7120.1,
+          "elevation_gain": 12.0,
+          "moving_time": 2429.0
+        },
+        "2026-07-28": {
+          "activity_ids": [
+            "19503567235"
+          ],
+          "count": 1,
+          "distance": 4557.9,
+          "elevation_gain": 7.0,
+          "moving_time": 1607.0
+        },
         "2026-07-31": {
           "activity_ids": [
             "19546311055"
@@ -11514,6 +11768,15 @@
           "distance": 630.6,
           "elevation_gain": 0.0,
           "moving_time": 441.0
+        },
+        "2026-07-09": {
+          "activity_ids": [
+            "19245968805"
+          ],
+          "count": 1,
+          "distance": 1888.4,
+          "elevation_gain": 33.0,
+          "moving_time": 1518.0
         }
       },
       "WeightTraining": {
@@ -12066,6 +12329,87 @@
           "elevation_gain": 0.0,
           "moving_time": 4599.0
         },
+        "2026-07-01": {
+          "activity_ids": [
+            "19141078809"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3396.0
+        },
+        "2026-07-06": {
+          "activity_ids": [
+            "19202426732"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4110.0
+        },
+        "2026-07-08": {
+          "activity_ids": [
+            "19230629400"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2239.0
+        },
+        "2026-07-16": {
+          "activity_ids": [
+            "19338896923"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3802.0
+        },
+        "2026-07-20": {
+          "activity_ids": [
+            "19390612245"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4127.0
+        },
+        "2026-07-21": {
+          "activity_ids": [
+            "19407916572"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3686.0
+        },
+        "2026-07-25": {
+          "activity_ids": [
+            "19461904543"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4297.0
+        },
+        "2026-07-27": {
+          "activity_ids": [
+            "19488654616"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3447.0
+        },
+        "2026-07-29": {
+          "activity_ids": [
+            "19519149357"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3619.0
+        },
         "2026-08-03": {
           "activity_ids": [
             "19586292286"
@@ -12107,7 +12451,7 @@
       }
     }
   },
-  "generated_at": "2026-08-07T11:44:06.106720+00:00",
+  "generated_at": "2026-08-07T11:48:06.382806+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7494916",
   "repo": "pedrokehl/git-sweaty",
