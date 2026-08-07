@@ -8838,5 +8838,83 @@
     "start_date_local": "2026-06-27T19:41:50Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-31",
+    "distance": 7010.9,
+    "elevation_gain": 27.0,
+    "id": "19546311055",
+    "moving_time": 2545.0,
+    "name": "7km Run - Hot day \ud83e\udd75",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-31T20:15:29Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-02",
+    "distance": 5136.9,
+    "elevation_gain": 9.0,
+    "id": "19574637886",
+    "moving_time": 1860.0,
+    "name": "5k Easy Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-02T20:35:43Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19586292286",
+    "moving_time": 3909.0,
+    "name": "3. Upper - The Sculptor",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-03T19:01:35Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 4549.2,
+    "elevation_gain": 8.0,
+    "id": "19602032278",
+    "moving_time": 1663.0,
+    "name": "Drop Down Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-04T20:24:37Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19615407804",
+    "moving_time": 3935.0,
+    "name": "2. Lower - The Chassis & Core",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-05T18:05:12Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 59660.1,
+    "elevation_gain": 570.0,
+    "id": "19631695489",
+    "moving_time": 9641.0,
+    "name": "Late evening with nice views & sore legs",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-06T18:34:39Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

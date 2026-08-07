@@ -6119,6 +6119,60 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19089394512",
       "year": 2026
+    },
+    {
+      "date": "2026-07-31",
+      "hour": 20,
+      "name": "7km Run - Hot day \ud83e\udd75",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19546311055",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-02",
+      "hour": 20,
+      "name": "5k Easy Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19574637886",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-03",
+      "hour": 19,
+      "name": "3. Upper - The Sculptor",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19586292286",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-04",
+      "hour": 20,
+      "name": "Drop Down Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19602032278",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-05",
+      "hour": 18,
+      "name": "2. Lower - The Chassis & Core",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19615407804",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-06",
+      "hour": 18,
+      "name": "Late evening with nice views & sore legs",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19631695489",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11004,6 +11058,15 @@
           "distance": 27504.2,
           "elevation_gain": 85.8,
           "moving_time": 3315.0
+        },
+        "2026-08-06": {
+          "activity_ids": [
+            "19631695489"
+          ],
+          "count": 1,
+          "distance": 59660.1,
+          "elevation_gain": 570.0,
+          "moving_time": 9641.0
         }
       },
       "RockClimbing": {
@@ -11359,6 +11422,33 @@
           "distance": 3671.6,
           "elevation_gain": 12.0,
           "moving_time": 1359.0
+        },
+        "2026-07-31": {
+          "activity_ids": [
+            "19546311055"
+          ],
+          "count": 1,
+          "distance": 7010.9,
+          "elevation_gain": 27.0,
+          "moving_time": 2545.0
+        },
+        "2026-08-02": {
+          "activity_ids": [
+            "19574637886"
+          ],
+          "count": 1,
+          "distance": 5136.9,
+          "elevation_gain": 9.0,
+          "moving_time": 1860.0
+        },
+        "2026-08-04": {
+          "activity_ids": [
+            "19602032278"
+          ],
+          "count": 1,
+          "distance": 4549.2,
+          "elevation_gain": 8.0,
+          "moving_time": 1663.0
         }
       },
       "Walk": {
@@ -11975,6 +12065,24 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4599.0
+        },
+        "2026-08-03": {
+          "activity_ids": [
+            "19586292286"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3909.0
+        },
+        "2026-08-05": {
+          "activity_ids": [
+            "19615407804"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3935.0
         }
       },
       "Yoga": {
@@ -11999,7 +12107,7 @@
       }
     }
   },
-  "generated_at": "2026-06-30T17:01:24.897747+00:00",
+  "generated_at": "2026-08-07T11:44:06.106720+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7494916",
   "repo": "pedrokehl/git-sweaty",
