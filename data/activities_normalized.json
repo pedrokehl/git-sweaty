@@ -9189,5 +9189,18 @@
     "start_date_local": "2026-08-07T15:43:44Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 20301.8,
+    "elevation_gain": 106.0,
+    "id": "19656966130",
+    "moving_time": 3019.0,
+    "name": "Testing new bikepacking setup",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-08T17:15:55Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
