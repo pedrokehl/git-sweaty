@@ -6371,6 +6371,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19656966130",
       "year": 2026
+    },
+    {
+      "date": "2026-08-09",
+      "hour": 16,
+      "name": "Joy Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19671233289",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11330,6 +11339,15 @@
           "distance": 20301.8,
           "elevation_gain": 106.0,
           "moving_time": 3019.0
+        },
+        "2026-08-09": {
+          "activity_ids": [
+            "19671233289"
+          ],
+          "count": 1,
+          "distance": 40788.6,
+          "elevation_gain": 0.0,
+          "moving_time": 6110.0
         }
       },
       "RockClimbing": {
@@ -12487,7 +12505,7 @@
       }
     }
   },
-  "generated_at": "2026-08-09T15:24:04.876784+00:00",
+  "generated_at": "2026-08-10T15:53:49.944678+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7494916",
   "repo": "pedrokehl/git-sweaty",
