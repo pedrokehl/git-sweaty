@@ -6452,6 +6452,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/19827867193",
       "year": 2026
+    },
+    {
+      "date": "2026-08-22",
+      "hour": 16,
+      "name": "1. Upper - Engine Room",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19852604449",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12625,6 +12634,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3686.0
+        },
+        "2026-08-22": {
+          "activity_ids": [
+            "19852604449"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4172.0
         }
       },
       "Yoga": {
@@ -12649,7 +12667,7 @@
       }
     }
   },
-  "generated_at": "2026-08-22T15:13:43.820964+00:00",
+  "generated_at": "2026-08-23T15:15:06.342210+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7494916",
   "repo": "pedrokehl/git-sweaty",
