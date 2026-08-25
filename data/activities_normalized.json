@@ -9332,5 +9332,18 @@
     "start_date_local": "2026-08-22T16:20:07Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-24",
+    "distance": 51080.4,
+    "elevation_gain": 410.2,
+    "id": "19881138993",
+    "moving_time": 7236.0,
+    "name": "High endorphins ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-24T17:13:45Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
