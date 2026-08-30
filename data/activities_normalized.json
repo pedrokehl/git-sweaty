@@ -9384,5 +9384,18 @@
     "start_date_local": "2026-08-29T06:20:57Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-30",
+    "distance": 100984.0,
+    "elevation_gain": 785.0,
+    "id": "19965536881",
+    "moving_time": 18194.0,
+    "name": "Alpenzana - Day 2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-30T10:19:28Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
