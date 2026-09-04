@@ -9436,5 +9436,18 @@
     "start_date_local": "2026-09-02T10:14:46Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-04",
+    "distance": 82567.9,
+    "elevation_gain": 829.0,
+    "id": "20031072062",
+    "moving_time": 14788.0,
+    "name": "Pore\u010d -> Trieste",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-04T07:09:56Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
