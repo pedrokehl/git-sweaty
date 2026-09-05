@@ -6542,6 +6542,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20031072062",
       "year": 2026
+    },
+    {
+      "date": "2026-09-05",
+      "hour": 0,
+      "name": "Night Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20039083266",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11582,6 +11591,15 @@
           "distance": 82567.9,
           "elevation_gain": 829.0,
           "moving_time": 14788.0
+        },
+        "2026-09-05": {
+          "activity_ids": [
+            "20039083266"
+          ],
+          "count": 1,
+          "distance": 3727.0,
+          "elevation_gain": 7.0,
+          "moving_time": 1006.0
         }
       },
       "RockClimbing": {
@@ -12829,7 +12847,7 @@
       }
     }
   },
-  "generated_at": "2026-09-04T17:57:58.146525+00:00",
+  "generated_at": "2026-09-05T17:03:20.871679+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7494916",
   "repo": "pedrokehl/git-sweaty",
