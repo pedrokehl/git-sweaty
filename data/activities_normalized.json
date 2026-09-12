@@ -9514,5 +9514,18 @@
     "start_date_local": "2026-09-11T16:07:01Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 56539.4,
+    "elevation_gain": 521.0,
+    "id": "20145928231",
+    "moving_time": 9070.0,
+    "name": "Some Gravel before changing tires",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-12T14:59:42Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
