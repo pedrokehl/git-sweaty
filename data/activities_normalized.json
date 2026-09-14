@@ -9527,5 +9527,18 @@
     "start_date_local": "2026-09-12T14:59:42Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20172845443",
+    "moving_time": 4157.0,
+    "name": "1. Upper - Engine Room",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-09-14T17:25:28Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
