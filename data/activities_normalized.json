@@ -9540,5 +9540,18 @@
     "start_date_local": "2026-09-14T17:25:28Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-15",
+    "distance": 21293.4,
+    "elevation_gain": 118.2,
+    "id": "20188468262",
+    "moving_time": 2493.0,
+    "name": "Settling the sealant on the GP5000s",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-15T18:49:29Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
