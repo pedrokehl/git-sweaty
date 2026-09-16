@@ -6614,6 +6614,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20188468262",
       "year": 2026
+    },
+    {
+      "date": "2026-09-16",
+      "hour": 18,
+      "name": "3. Upper - The Sculptor",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20203825734",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12949,6 +12958,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4157.0
+        },
+        "2026-09-16": {
+          "activity_ids": [
+            "20203825734"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4807.0
         }
       },
       "Yoga": {
@@ -12973,7 +12991,7 @@
       }
     }
   },
-  "generated_at": "2026-09-15T18:39:15.385260+00:00",
+  "generated_at": "2026-09-16T18:36:01.769957+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7494916",
   "repo": "pedrokehl/git-sweaty",
