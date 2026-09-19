@@ -9579,5 +9579,18 @@
     "start_date_local": "2026-09-18T15:57:45Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-19",
+    "distance": 17301.4,
+    "elevation_gain": 76.0,
+    "id": "20242720084",
+    "moving_time": 2324.0,
+    "name": "Quick spin",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-19T16:54:37Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
