@@ -9644,5 +9644,18 @@
     "start_date_local": "2026-09-24T18:52:15Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-26",
+    "distance": 63298.4,
+    "elevation_gain": 708.0,
+    "id": "20339922204",
+    "moving_time": 10210.0,
+    "name": "Chill ride - new route today",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-26T15:21:53Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
