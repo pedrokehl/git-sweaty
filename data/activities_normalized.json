@@ -9683,5 +9683,18 @@
     "start_date_local": "2026-09-29T19:06:45Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-03",
+    "distance": 110026.0,
+    "elevation_gain": 475.0,
+    "id": "20432002021",
+    "moving_time": 11366.0,
+    "name": "L\u2019etape Pardubice",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-03T10:35:59Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
