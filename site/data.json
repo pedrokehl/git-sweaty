@@ -6722,6 +6722,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/20476383903",
       "year": 2026
+    },
+    {
+      "date": "2026-10-07",
+      "hour": 18,
+      "name": "7km Easy Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20491639365",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12243,6 +12252,15 @@
           "distance": 7017.0,
           "elevation_gain": 15.0,
           "moving_time": 2585.0
+        },
+        "2026-10-07": {
+          "activity_ids": [
+            "20491639365"
+          ],
+          "count": 1,
+          "distance": 7054.3,
+          "elevation_gain": 11.0,
+          "moving_time": 2401.0
         }
       },
       "Walk": {
@@ -13189,7 +13207,7 @@
       }
     }
   },
-  "generated_at": "2026-10-06T19:56:34.127855+00:00",
+  "generated_at": "2026-10-07T20:22:46.784339+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7494916",
   "repo": "pedrokehl/git-sweaty",
