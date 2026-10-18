@@ -9761,5 +9761,18 @@
     "start_date_local": "2026-10-17T14:31:07Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20637936519",
+    "moving_time": 2233.0,
+    "name": "Afternoon workout \ud83d\udcaa",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-18T17:46:11Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
