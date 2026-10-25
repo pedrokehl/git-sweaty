@@ -9800,5 +9800,18 @@
     "start_date_local": "2026-10-24T12:14:50Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-25",
+    "distance": 7527.9,
+    "elevation_gain": 20.0,
+    "id": "20728351920",
+    "moving_time": 2691.0,
+    "name": "Easy Run - feels so good in the rain",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-25T16:38:28Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
