@@ -9826,5 +9826,18 @@
     "start_date_local": "2026-10-26T17:57:52Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-29",
+    "distance": 7580.1,
+    "elevation_gain": 6.0,
+    "id": "20781167771",
+    "moving_time": 2859.0,
+    "name": "6x 400m @ 4:40",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-29T17:38:29Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
