@@ -9839,5 +9839,18 @@
     "start_date_local": "2026-10-29T17:38:29Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20792681896",
+    "moving_time": 4318.0,
+    "name": "3. Upper - The Sculptor",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-30T15:43:00Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
