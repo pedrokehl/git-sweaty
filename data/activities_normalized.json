@@ -9852,5 +9852,18 @@
     "start_date_local": "2026-10-30T15:43:00Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 12104.8,
+    "elevation_gain": 43.0,
+    "id": "20818614047",
+    "moving_time": 4520.0,
+    "name": "Long Run - Fun random route",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-01T14:32:57Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
