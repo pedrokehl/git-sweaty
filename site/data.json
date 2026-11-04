@@ -6839,6 +6839,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/20832367461",
       "year": 2026
+    },
+    {
+      "date": "2026-11-04",
+      "hour": 18,
+      "name": "Easy Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20859931750",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12405,6 +12414,15 @@
           "distance": 12104.8,
           "elevation_gain": 43.0,
           "moving_time": 4520.0
+        },
+        "2026-11-04": {
+          "activity_ids": [
+            "20859931750"
+          ],
+          "count": 1,
+          "distance": 6529.4,
+          "elevation_gain": 13.0,
+          "moving_time": 2401.0
         }
       },
       "Walk": {
@@ -13423,7 +13441,7 @@
       }
     }
   },
-  "generated_at": "2026-11-03T20:43:57.562614+00:00",
+  "generated_at": "2026-11-04T21:00:39.018709+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7494916",
   "repo": "pedrokehl/git-sweaty",
