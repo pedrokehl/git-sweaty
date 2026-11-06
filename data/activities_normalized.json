@@ -9904,5 +9904,18 @@
     "start_date_local": "2026-11-05T18:31:03Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-06",
+    "distance": 8370.2,
+    "elevation_gain": 14.0,
+    "id": "20884624265",
+    "moving_time": 2974.0,
+    "name": "Rolling 300s",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-06T16:52:48Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
