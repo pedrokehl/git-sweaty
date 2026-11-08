@@ -9943,5 +9943,18 @@
     "start_date_local": "2026-11-07T14:50:21Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-11-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20911964122",
+    "moving_time": 4093.0,
+    "name": "1. Upper - Engine Room",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-11-08T17:25:51Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
