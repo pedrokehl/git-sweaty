@@ -9945,6 +9945,19 @@
     "year": 2026
   },
   {
+    "date": "2026-11-07",
+    "distance": 9000.0,
+    "elevation_gain": 0.0,
+    "id": "20922801269",
+    "moving_time": 7200.0,
+    "name": "Hike around Horn\u00ed Bezd\u011bkov",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-11-07T12:30:00Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
     "date": "2026-11-08",
     "distance": 0.0,
     "elevation_gain": 0.0,
