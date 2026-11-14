@@ -9995,5 +9995,18 @@
     "start_date_local": "2026-11-13T15:41:23Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-14",
+    "distance": 20083.7,
+    "elevation_gain": 96.0,
+    "id": "20985642919",
+    "moving_time": 2517.0,
+    "name": "Missed some cycling in my life",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-14T15:12:53Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
