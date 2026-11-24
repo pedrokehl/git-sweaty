@@ -10060,5 +10060,18 @@
     "start_date_local": "2026-11-22T13:06:42Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21110391923",
+    "moving_time": 3417.0,
+    "name": "2. Lower - The Chassis & Core",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-11-24T18:16:01Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
